@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Deploy memo
+Using Github pages
+cp -a build/* ../react-from-backend-learn/contents/example/ 
+git add -A
+git commit -a -m "commit message"
+git push
+
 ### `npm start`
 
 Runs the app in the development mode.\
