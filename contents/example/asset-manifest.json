@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-from-backend-learn/static/css/main.073c9b0a.css",
-    "main.js": "/react-from-backend-learn/static/js/main.9fffef60.js",
-    "static/js/787.759e47f1.chunk.js": "/react-from-backend-learn/static/js/787.759e47f1.chunk.js",
-    "static/media/logo.svg": "/react-from-backend-learn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-from-backend-learn/index.html",
-    "main.073c9b0a.css.map": "/react-from-backend-learn/static/css/main.073c9b0a.css.map",
-    "main.9fffef60.js.map": "/react-from-backend-learn/static/js/main.9fffef60.js.map",
-    "787.759e47f1.chunk.js.map": "/react-from-backend-learn/static/js/787.759e47f1.chunk.js.map"
+    "main.css": "/react-from-backend-learn/contents/example/static/css/main.073c9b0a.css",
+    "main.js": "/react-from-backend-learn/contents/example/static/js/main.4396278a.js",
+    "static/js/787.759e47f1.chunk.js": "/react-from-backend-learn/contents/example/static/js/787.759e47f1.chunk.js",
+    "static/media/logo.svg": "/react-from-backend-learn/contents/example/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-from-backend-learn/contents/example/index.html",
+    "main.073c9b0a.css.map": "/react-from-backend-learn/contents/example/static/css/main.073c9b0a.css.map",
+    "main.4396278a.js.map": "/react-from-backend-learn/contents/example/static/js/main.4396278a.js.map",
+    "787.759e47f1.chunk.js.map": "/react-from-backend-learn/contents/example/static/js/787.759e47f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9fffef60.js"
+    "static/js/main.4396278a.js"
   ]
 }
